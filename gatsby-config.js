@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog TailwindCSS`,
-    author: `Kyle Mathews`,
+    title: `Wangoon Studio`,
+    author: `Kurnia Muhamad`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-tailwindcss-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `wangoon`,
     },
   },
   plugins: [
